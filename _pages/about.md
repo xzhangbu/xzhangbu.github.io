@@ -18,7 +18,7 @@ This is the front page of me.
 - **[In submission] Meunik: Rethinking Virtual Machine Memory Resource Management for Unikernel-based VMs**\
   Yongshu Bai, **Xin Zhang** and Yifan Zhang
 
-- **[S\&P'23] Control flow and pointer integrity enforcement in a secure tagged architecture**\
+- **[S&P'23] Control flow and pointer integrity enforcement in a secure tagged architecture**\
   Gollapudi, R.T., Yuksek, G., Demicco, D., Cole, M., Kothari, G., Kulkarni, R., **Zhang, X.**, Ghose, K., Prakash, A. and Umrigar, Z.\
   IEEE Symposium on Security and Privacy\
   San Francisco, CA, USA, 2023
