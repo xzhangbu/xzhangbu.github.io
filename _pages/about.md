@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 This is the front page of me.
+
 {% include portfolio.html %}
