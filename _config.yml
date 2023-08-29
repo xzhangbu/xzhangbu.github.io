@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Zhang"
 title_separator          : "-"
 name                     : &name "Xin Zhang"
-description              : &description "PhD Student at Binghamton University"
+description              : &description "PhD Student at SUNY Binghamton"
 url                      : https://xzhangbu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzhangbu/xzhangbu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Zhang"
   avatar           : "profile.png"
-  bio              : "Phd Student at Binghamton University"
+  bio              : "Phd Student at SUNY Binghamton"
   location         : "Vestal, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
