@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at SUNY Binghamton, affiliated with XXX. I am working under the supervision of [Prof.Yifan Zhang](https://www.binghamton.edu/computer-science/people/profile.html?id=zhangy).
+I am a Ph.D student at SUNY Binghamton, working under the supervision of [Prof.Yifan Zhang](https://www.binghamton.edu/computer-science/people/profile.html?id=zhangy).\
+I also worked on a collaborated project with [Prof.Kanad Ghose](https://www.binghamton.edu/computer-science/people/profile.html?id=ghose). 
 
-My current research interest lies in XXX:
-
+My current research interests lie in mobile systems, embedded systems, operating systems and virtualization, with a special emphasis on security. I am particularly passionate about designing and implementing robust security mechanisms using virtulization techniques for resource-constrained mobile environments. My goal is to fortify these mobile systems against a broad spectrum of attackes.\
     
 # Publications
 
