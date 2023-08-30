@@ -8,6 +8,6 @@ authors: "<b>Xin Zhang</b> and Yifan Zhang"
 uri: 
 arxiv: 
 bibtex: 
-pdf: 
+pdf: files/dumb.pdf
 teaser:
 ---
