@@ -1,13 +1,13 @@
 ---
-title: "Test"
+title: "SAFEPATH: Enabling Secure Device Input Paths for Privacy Protection"
 collection: publications
 permalink: /publication/_secureio
-date: 
-venue: 
-authors: 
+date: 2023-01-01
+venue: "In Submission"
+authors: "<b>Xin Zhang</b> and Yifan Zhang"
 uri: 
 arxiv: 
 bibtex: 
-pdf: https://studios.disneyresearch.com/app/uploads/2021/10/Neural-Frame-Interpolation-for-Rendered-Content.pdf
+pdf: 
 teaser:
 ---
