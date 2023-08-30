@@ -7,7 +7,7 @@ venue: "The ACM Web Conference (WWW)"
 authors: "<b>Xin Zhang</b> and Yifan Zhang"
 uri: 
 arxiv: 
-bibtex: 
-pdf: 
+bibtex: files/2021-www-react.bib
+pdf: files/2021-www-react.pdf
 teaser:  
 ---
