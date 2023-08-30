@@ -2,9 +2,9 @@
 title: "ReACt: A Resource-centric Access Control System for Web-app Interactions on Android"
 collection: publications
 permalink: 
-date: 
+date: 2021-01-01
 venue: "The ACM Web Conference (WWW)"
-authors: "Xin Zhang and Yifan Zhang"
+authors: "<b>Xin Zhang</b> and Yifan Zhang"
 uri: 
 arxiv: 
 bibtex: 
