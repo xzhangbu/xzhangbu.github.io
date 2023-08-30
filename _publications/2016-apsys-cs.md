@@ -4,10 +4,10 @@ collection: publications
 permalink: 
 date: 2016-01-01
 venue: "ACM SIGOPS Asia-Pacific Workshop on Systems (APSys)"
-authors: "Yongshu Bai, Xin Zhang, and Yifan Zhang"
+authors: "Yongshu Bai, <b>Xin Zhang</b>, and Yifan Zhang"
 uri: 
 arxiv: 
-bibtex: 
-pdf: 
+bibtex: files/2016-apsys-cs.bib
+pdf: files/2016-apsys-cs.pdf
 teaser:  
 ---
