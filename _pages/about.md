@@ -15,41 +15,29 @@ My current research interest lies in XXX:
     
 # Publications
 
-- **SAFEPATH: Enabling Secure Device Input Paths for Privacy Protection**\
-  **Xin Zhang** and Yifan Zhang\
-  **(In submission)**
+<style style="text/css">
+  	.hoverTable{
+		width:85%; 
+		border-collapse:collapse; 
+		border: 0px;
+	}
+	.hoverTable td{ 
+		padding:7px; border:#4e95f4 0px solid;
+	}
+	/* Define the default color for all the table rows */
+	.hoverTable tr{
+		background: #ffffff;
+	}
+	/* Define the hover highlight color for the table row */
+    .hoverTable tr:hover {
+          background-color: #f7f7f7;
+    }
+</style>
 
-- **Meunik: Rethinking Virtual Machine Memory Resource Management for Unikernel-based VMs**\
-  Yongshu Bai, **Xin Zhang** and Yifan Zhang\
-  **(In submission)**
-
-- **Control flow and pointer integrity enforcement in a secure tagged architecture**\
-  Gollapudi, R.T., Yuksek, G., Demicco, D., Cole, M., Kothari, G., Kulkarni, R., **Zhang, X.**, Ghose, K., Prakash, A. and Umrigar, Z.\
-  IEEE Symposium on Security and Privacy **(S&P)** \
-  San Francisco, CA, USA, 2023
-
-- **ReACt: A Resource-centric Access Control System for Web-app Interactions on Android**\
-  **Xin Zhang** and Yifan Zhang\
-  The ACM Web Conference **(WWW)** \
-  Virtual Edition, 2021  
-  
- - **Edgecourier: an edge-hosted personal service for low-bandwidth document synchronization in mobile cloud storage services**\
-  Pengzhan Hao, Yongshu Bai, **Xin Zhang**, and Yifan Zhang\
-  ACM/IEEE Symposium on Edge Computing **(SEC)** \
-  San Jose, CA, USA, 2017
-
-- **Improving cloud storage usage experience for mobile applications**\
-  Yongshu Bai, **Xin Zhang**, and Yifan Zhang\
-  ACM SIGOPS Asia-Pacific Workshop on Systems **(APSys)** \
-  Hong Kong, China, 2016
-  
-# Posters
-- **Poster: Securing Device Inputs for Smartphones Using Hypervisor Based Approach**\
-  **Xin Zhang**, Yongshu Bai, Pengzhan Hao, and Yifan Zhang\
-  ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys)** \
-  Niagara Falls, NY, USA, 2017
-
-- **Poster: EPS: Edge-hosted Personal Services for Mobile Users**\
-  Pengzhan Hao, Yongshu Bai, **Xin Zhang**, and Yifan Zhang\
-  ACM International Conference on Mobile Systems, Applications, and Services **(MobiSys)** \
-  Niagara Falls, NY, USA, 2017
+<table class="hoverTable">
+  <col style="width:75%">
+  <col style="width:25%">
+  {% for post in site.publications reversed %}
+    {% include archive-single-pub.html %}
+  {% endfor %}
+</table>
