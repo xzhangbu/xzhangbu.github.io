@@ -7,7 +7,7 @@ venue: "IEEE Symposium on Security and Privacy (S&P)"
 authors: "Gollapudi, R.T., Yuksek, G., Demicco, D., Cole, M., Kothari, G., Kulkarni, R., <b>Zhang, X.</b>, Ghose, K., Prakash, A. and Umrigar, Z."
 uri: 
 arxiv: 
-bibtex: 
-pdf: 
+bibtex: files/2023_sp_cfpi.bib
+pdf: files/2023_sp_cfpi.pdf
 teaser:  
 ---
