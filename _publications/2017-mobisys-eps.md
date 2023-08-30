@@ -4,10 +4,10 @@ collection: publications
 permalink: 
 date: 2017-01-01
 venue: "ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) "
-authors: "Pengzhan Hao, Yongshu Bai, Xin Zhang, and Yifan Zhang"
+authors: "Pengzhan Hao, Yongshu Bai, <b>Xin Zhang</b>, and Yifan Zhang"
 uri: 
 arxiv: 
-bibtex: 
+bibtex: /files/2017-mobisys-eps.bib
 pdf: 
 teaser:  
 ---
