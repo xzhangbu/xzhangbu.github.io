@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my Ph.D. in Computer Science from SUNY Binghamton, under the supervision of [Prof.Yifan Zhang](https://www.binghamton.edu/computer-science/people/profile.html?id=zhangy). During my Ph.D. studies, I also collaborated on a project with [Prof.Kanad Ghose](https://www.binghamton.edu/computer-science/people/profile.html?id=ghose). 
+I received my Ph.D. in Computer Science from SUNY Binghamton, under the supervision of [Prof. Yifan Zhang](https://www.binghamton.edu/computer-science/people/profile.html?id=zhangy). During my Ph.D. studies, I also collaborated on a project with [Prof. Kanad Ghose](https://www.binghamton.edu/computer-science/people/profile.html?id=ghose). 
 
 My current research interests lie in mobile systems, embedded systems, operating systems and virtualization, with a special emphasis on security. I am particularly passionate about designing and implementing robust security mechanisms using virtulization techniques for resource-constrained mobile environments. My goal is to fortify these mobile systems against a broad spectrum of attackes.
     
